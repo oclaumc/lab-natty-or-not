@@ -18,6 +18,7 @@ Usei o "leonardo.ai" para criar imagens-base inspiradoras a partir de prompts de
  O "ChatGPT" ajudou a estruturar o guia em tópicos didáticos, enquanto o "Procreate" permitiu ajustes manuais e a criação de layers explicativos.
 
 ## 🚀 Resultados
+[Exemplos](https://github.com/oclaumc/lab-natty-or-not/blob/main/exemplos/exemplo%20de%20imagem%20criar%20pelo%20leonardo%20ai.PNG)
 Quatro imagens dinâmicas com exemplos visuais, dicas práticas e exercícios para artistas iniciantes e avançados explorarem a fusão entre arte tradicional e IA.
 
 ## 💭 Reflexão (Opcional)
